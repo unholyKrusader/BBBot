@@ -1,0 +1,23 @@
+
+{
+  "name": "buu",
+  "version": "1.0.0",
+  "description": "Discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unholyKrusader/BBBot.git"
+  },
+  "author": "Krusader",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unholyKrusader/BBBot.git"
+  },
+  "homepage": "https://github.com/unholyKrusader/BBBot.git",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}

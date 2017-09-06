@@ -1,2 +1,3 @@
-# BBBot
-A Blood Bowl Skills Bot
+BBBot
+
+A Discord bot.
